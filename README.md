@@ -29,9 +29,9 @@ Additionally, Odoo.sh comes at an additional cost which is very competitive and 
 ## Setup and Configuration Plan
 
 - [x] Install Odoo.sh environment
-- [] Install customer selected apps
-- [] Load Demo Data
-- [] Dry Run
+- [x] Install customer selected apps
+- [x] Load Demo Data
+- [x] Dry Run
 - [] Initial Prod
 - [] Activate Staging
 
